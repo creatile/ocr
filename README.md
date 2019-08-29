@@ -1,2 +1,2 @@
 # ocr
-Openclassrooms project test
+Openclassrooms project
